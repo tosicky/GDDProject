@@ -10,6 +10,6 @@ GDD are a measure of heat accumulation used by horticulturists, gardeners, and f
 
 
 
-For more on project requirements, see links below:
+For more on project requirements, see link below:
 
 https://github.com/jmunroe/CMSC6950/blob/master/gddproject.md
